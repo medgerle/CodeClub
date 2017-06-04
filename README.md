@@ -1,6 +1,6 @@
 # Code Club
 
-[My Website] (https://medgerle.github.io/CodeClub/homepage.html)
+[My Website](https://medgerle.github.io/CodeClub/homepage.html)
 
 ## Description
 A club that meets weelky after school to learn basic coding skills to create anything from a simple website to an intricate game designed by you!
